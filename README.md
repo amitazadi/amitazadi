@@ -36,8 +36,8 @@
               align="center"
               src="/logo/portfolio.png"
               alt="amitazad"
-              height="40"
-              width="40"
+              height="30"
+              width="30"
       /></a>
 
  <br />
