@@ -36,8 +36,8 @@
               align="center"
               src="/logo/portfolio.png"
               alt="amitazad"
-              height="30"
-              width="30"
+              height="40"
+              width="40"
       /></a>
 
  <br />
@@ -52,8 +52,8 @@
             align="center"
             src="/logo/linkedin.png"
             alt="amit-kumar-azadi"
-            height="30"
-            width="30"
+            height="40"
+            width="40"
             margin-right="100px"
     /></a>
     <a href="https://fb.com/amitazadi" target="blank"
@@ -61,8 +61,8 @@
             align="center"
             src="/logo/fb.png"
             alt="amitazadi"
-            height="30"
-            width="30"
+            height="40"
+            width="40"
             margin-right="100px"
     /></a>
     <a href="https://instagram.com/amitazadi" target="blank"
@@ -70,8 +70,8 @@
             align="center"
             src="/logo/insta.png"
             alt="amitazadi"
-            height="30"
-            width="30"
+            height="40"
+            width="40"
     /></a>
 </p>
 
@@ -84,40 +84,40 @@
             align="center"
             src="/logo/codechef.png"
             alt="superazad"
-            height="30"
-            width="30"
+            height="40"
+            width="40"
     /></a>
     <a href="https://www.leetcode.com/amitazadi" target="blank"
         ><img
             align="center"
             src="/logo/leetcode.png"
             alt="amitazadi"
-            height="30"
-            width="30"
+            height="40"
+            width="40"
     /></a>
     <a href="https://www.hackerearth.com/@amitazadi" target="blank"
         ><img
             align="center"
             src="/logo/hackerrank.png"
             alt="@amitazadi"
-            height="30"
-            width="30"
+            height="40"
+            width="40"
     /></a>
     <a href="https://auth.geeksforgeeks.org/user/amitazad" target="blank"
         ><img
             align="center"
             src="/logo/gfg.png"
             alt="amitazad"
-            height="30"
-            width="30"
+            height="40"
+            width="40"
     /></a>
     <a href="https://amitazadi.herokuapp.com/" target="blank"
         ><img
             align="center"
             src="/logo/portfolio.png"
             alt="amitazad"
-            height="30"
-            width="30"
+            height="40"
+            width="40"
     /></a>
 </p>
 
