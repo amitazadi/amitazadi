@@ -6,20 +6,13 @@
 <br />
 <br />
 
-<p align="right">
-    <img
-        src="/logo/computer working.gif"
-        alt="gif"
-    />
-</p>
-
 <p font-size="20px" margin-bottom="520px">
     Hi! I'm Amit Kumar, pursuing my graduation from IIIT Gwalior with a degree of IPG-MTech in Information Technology. I'm most passionate about solving real life problems through programming and I aim to pursue this passion in the field of software engineering. In my free time, I like to do Competitive Coding and to learn new algorithms.
 </p>
 
 <br />
 
- <img margin-right="50px" align="right" height="400px" width= "400px" alt="GIF" src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/computer%20working.gif?raw=true" />
+ <img margin-right="50px" align="right" height="400px" width= "400px" alt="GIF" src="/logo/computer working.gif" />
 
 -   A pre-final year student | Graduating in 2023 from IIIT Gwalior
 -   Competitive Programmer , Full Stack Developer , DS-Algo Expert
