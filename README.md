@@ -3,6 +3,8 @@
     Competitive Programmer | Full Stack Developer | DS-Algo Expert
 </h3>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=amitazadi&label=Profile%20views&color=0e75b6&style=flat" alt="amitazadi" /> </p>
+
 <br />
 <br />
 
@@ -32,7 +34,7 @@
 -   For more information visit my portfolio <a href="https://amitazadi.herokuapp.com/" target="blank"
           ><img
               align="center"
-              src="https://cdn4.iconfinder.com/data/icons/unigrid-flat-clothing-accessories/90/016_023_suitcase_briefcase_office_business_services_portfolio_5-256.png"
+              src="/logo/portfolio.png"
               alt="amitazad"
               height="30"
               width="30"
@@ -48,7 +50,7 @@
     <a href="https://linkedin.com/in/amit-kumar-azadi" target="blank"
         ><img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            src="/logo/linkedin.png"
             alt="amit-kumar-azadi"
             height="30"
             width="40"
@@ -57,7 +59,7 @@
     <a href="https://fb.com/amitazadi" target="blank"
         ><img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            src="/logo/fb.png"
             alt="amitazadi"
             height="30"
             width="40"
@@ -66,7 +68,7 @@
     <a href="https://instagram.com/amitazadi" target="blank"
         ><img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            src="/logo/insta.png"
             alt="amitazadi"
             height="30"
             width="40"
@@ -80,7 +82,7 @@
     <a href="https://www.codechef.com/users/superazad" target="blank"
         ><img
             align="center"
-            src="https://cdn3.iconfinder.com/data/icons/diversity-avatars/64/chef-man-white-256.png"
+            src="/logo/codechef.png"
             alt="superazad"
             height="30"
             width="40"
@@ -88,7 +90,7 @@
     <a href="https://www.leetcode.com/amitazadi" target="blank"
         ><img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            src="/logo/leetcode.png"
             alt="amitazadi"
             height="30"
             width="40"
@@ -96,7 +98,7 @@
     <a href="https://www.hackerearth.com/@amitazadi" target="blank"
         ><img
             align="center"
-            src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-256.png"
+            src="/logo/hackerrank.png"
             alt="@amitazadi"
             height="30"
             width="40"
@@ -104,7 +106,7 @@
     <a href="https://auth.geeksforgeeks.org/user/amitazad" target="blank"
         ><img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+            src="/logo/gfg.png"
             alt="amitazad"
             height="30"
             width="40"
@@ -112,7 +114,7 @@
     <a href="https://amitazadi.herokuapp.com/" target="blank"
         ><img
             align="center"
-            src="https://cdn4.iconfinder.com/data/icons/unigrid-flat-clothing-accessories/90/016_023_suitcase_briefcase_office_business_services_portfolio_5-256.png"
+            src="/logo/portfolio.png"
             alt="amitazad"
             height="30"
             width="30"
