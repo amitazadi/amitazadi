@@ -98,7 +98,7 @@
     <a href="https://www.hackerearth.com/@amitazadi" target="blank"
         ><img
             align="center"
-            src="/logo/hackerrank.jpg"
+            src="/logo/hackerrank.png"
             alt="@amitazadi"
             height="40"
             width="40"
