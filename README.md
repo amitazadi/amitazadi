@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
+
 <h3 align="center" margin-bottom="50px">
-    Competitive Programmer | Full Stack Developer | DS-Algo Expert
+    Competitive Programmer | Full Stack Developer | DS-Algo Freak
 </h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amitazadi&label=Profile%20views&color=0e75b6&style=flat" alt="amitazadi" /> </p>
@@ -42,8 +43,10 @@
 
  <br />
  <br />
-
-<h2 align="left" margin-top="100px" >Connect me:</h2>
+ 
+---
+### Connect me:
+<!-- <h2 align="left" margin-top="100px" >Connect me:</h2> -->
 <!--  <img align="right" height="400px" width= "400px" alt="GIF" src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/computer%20working.gif?raw=true" /> -->
 
 <p align="left" >
@@ -77,7 +80,11 @@
 
 <br />
 
-<h2 align="left">Other links:</h2>
+---
+
+### Other Links:
+
+<!-- <h2 align="left">Other links:</h2> -->
 <p align="left">
     <a href="https://www.codechef.com/users/superazad" target="blank"
         ><img
@@ -258,12 +265,16 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitazadi&show_icons=true&locale=en&layout=compact" alt="amitazadi" /></p>
+---
+
+### 🔥🔥 My Stats:
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitazadi&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="amitazadi" /></p>
 
 <p>
     &nbsp;<img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=amitazadi&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=amitazadi&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"
         alt="amitazadi"
     />
 </p>
@@ -271,4 +282,4 @@
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amitazadi&" alt="amitazadi" /></p> -->
 
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Keep+learning,+Keep+Coding!)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?color=F1D00A&center=true&vCenter=true&lines=Keep+learning,+Keep+Coding!)](https://git.io/typing-svg)
