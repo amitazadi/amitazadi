@@ -15,7 +15,7 @@
 
 <br />
 
- <img margin-right="50px" align="right" height="400px" width= "350px" alt="GIF" src="/logo/computer working.gif" />
+ <img margin-right="50px" align="right" height="300px" width= "300px" alt="GIF" src="/logo/computer working.gif" />
 
 -   A pre-final year student | Graduating in 2023 from IIIT Gwalior
 -   Competitive Programmer , Full Stack Developer , DS-Algo Expert
