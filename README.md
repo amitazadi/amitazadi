@@ -20,7 +20,7 @@
 
 <br />
 
- <img margin-right="50px" align="right" height="600px" width= "400px" alt="GIF" src="/logo/computer working.gif" />
+ <img margin-right="50px" align="right" height="600px" width= "370px" alt="GIF" src="/logo/computer working.gif" />
 
 -   Software Engineer-1 (Frontend) | Esko (Aug 2024 – Present).
 -   2+ years of full-time experience as a Frontend Engineer.
