@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 
-<h3 align="center" margin-bottom="50px">
-    Competitive Programmer | Full Stack Developer | DS-Algo Freak
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineer-1;Frontend+Developer;Open+Source+Contributor;React.js+Developer;JavaScript+Developer;Full+Stack+Developer;Problem+Solver;Creative+Coder;Tech+Enthusiast" alt="Typing Animation" />
+</p>
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amitazadi&label=Profile%20views&color=0e75b6&style=flat" alt="amitazadi" /> </p>
 
@@ -10,16 +11,22 @@
 <br />
 
 <p font-size="20px" margin-bottom="520px">
-    Hi! I'm Amit Kumar, pursuing my graduation from IIIT Gwalior with a degree of IPG-MTech in Information Technology. I'm most passionate about solving real life problems through programming and I aim to pursue this passion in the field of software engineering. In my free time, I like to do Competitive Coding and to learn new algorithms.
+     Hi! I'm Amit Kumar, currently working as a Software Engineer-1 (Frontend) at <b>Esko</b>. 
+    I have completed my Master’s from IIIT Gwalior in Information Technology (2023). 
+    I'm passionate about building scalable web applications, solving real-world problems through programming, and writing clean, optimized code. 
+</p>
+
 </p>
 
 <br />
 
- <img margin-right="50px" align="right" height="300px" width= "300px" alt="GIF" src="/logo/computer working.gif" />
+ <img margin-right="50px" align="right" height="600px" width= "400px" alt="GIF" src="/logo/computer working.gif" />
 
--   A pre-final year student | Graduating in 2023 from IIIT Gwalior
--   Competitive Programmer , Full Stack Developer , DS-Algo Expert
--   Currently learning **MERN and Advance DS-Algo topics**
+-   Software Engineer-1 (Frontend) | Esko (Aug 2024 – Present).
+-   2+ years of full-time experience as a Frontend Engineer.
+-   Had done 3 internships at Samsung SDS, Bytelearn, and Bikayi.
+-   Competitive Programmer , Full Stack Developer , DS-Algo Expert.
+-   Currently exploring advanced frontend and system design concepts.
 
 <h3>Skills</h3>
 
@@ -31,7 +38,7 @@
 <h3>About</h3>
 
 -   💬 Ask me about **MERN and Data Structure...**
--   📫 How to reach me **khurjaamit@gmail.com**
+-   📫 How to reach me **amitazadi1705@gmail.com**
 -   For more information visit my portfolio <a href="https://amitazadi.herokuapp.com/" target="blank"
           ><img
               align="center"
